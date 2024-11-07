@@ -8,5 +8,5 @@
 
 **Social Links**
 
-- X: https://x.com/readseek_com
+- X: https://x.com/iReadseek
 - Youtube: https://www.youtube.com/@readseek
