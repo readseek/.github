@@ -4,7 +4,7 @@
 
 - 🤸 This is the open source playground for readseekers.
 - 👩‍💻 We Build all the intesting things we think. 
-- 🎯 Our goal is to explore fun ways to read and make everyone enjoying life.
+- 🎯 Our goal is to explore fun ways for reading and make everyone enjoying knowlege information.
 
 **Social Links**
 
