@@ -2,8 +2,8 @@
 
 **Nice to meet you here**
 
-- 📚 This is an open source team for readseek projects.
-- 👩‍💻 We Built all the intesting readable things we think. 
+- 📚 This is the opensource playground for @Readseek.
+- 👩‍💻 We Build all the intesting things we think. 
 - 🎯 Our goal is to explore fun ways to read and make everyone love reading and enjoying life!
 
 **Social Links**
