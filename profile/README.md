@@ -2,7 +2,7 @@
 
 **Nice to meet you here**
 
-- 📚 This is the opensource playground for @Readseek.
+- 🤸 This is the open source playground for @Readseek.
 - 👩‍💻 We Build all the intesting things we think. 
 - 🎯 Our goal is to explore fun ways to read and make everyone love reading and enjoying life!
 
