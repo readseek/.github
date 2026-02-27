@@ -8,7 +8,6 @@
 
 **Social Links**
 
-- X: [https://x.com/ReadseekAI](https://x.com/ReadseekAI)
 - Youtube: https://www.youtube.com/@readseek
 
 
